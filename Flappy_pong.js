@@ -8,6 +8,7 @@
 // 1: Game Screen
 // 2: Game-over Screen 
 
+// https://www.toptal.com/game/ultimate-guide-to-processing-simple-game
 var gameScreen = 0;
 
 // gameplay settings
